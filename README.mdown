@@ -1,0 +1,9 @@
+## What is this?
+
+A very very simple chat implementation using WebSockets. Nothing fancy here - just for study purposes.
+
+## How to use it?
+
+```npm install && npm start``` - the server will be up and running (port 8080)
+
+You can use `client-example.html` as an example on how to write a WebSocket client.
